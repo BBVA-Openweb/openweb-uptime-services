@@ -99,14 +99,17 @@ status-website:
   logoUrl: https://cdn.openweb.bbva/logos/openweb/small.png
   favicon: https://cdn.openweb.bbva/favicon/bbva/favicon-96x96.png
   name: Openweb Services Uptime
-  introTitle: "**Openweb Services Uptime** is the uptime monitor and status."
-  introMessage: This is a status page which uses _real-time_ data (every site is checked every 5 minutes). You can check the response time of every monitored site.
+  introTitle: "**Openweb Services Uptime** is the uptime monitor and status page for the services provided by Openweb."
+  introMessage: This is a status page which uses _real-time_ data (every site is checked every 60 minutes). You can check the response time of every monitored service.
   themeUrl: https://cdn.openweb.bbva/css/status/openweb-theme.css
   navbar:
     - title: Status
       href: /
     - title: Openweb Control Panel
       href: https://webpublicas.bbva.com/
+  metaTags:
+    - name: "robots"
+      content: "noindex"
   robotsText: "User-agent: * \n Disallow: /"
 
 workflowSchedule:
