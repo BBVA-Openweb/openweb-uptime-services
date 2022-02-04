@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/average
 status: up
 code: 200
-responseTime: 400
-lastUpdated: 2022-02-04T14:25:03.315Z
+responseTime: 463
+lastUpdated: 2022-02-04T14:34:31.313Z
 startTime: Fri Feb 04 2022 14:25:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
