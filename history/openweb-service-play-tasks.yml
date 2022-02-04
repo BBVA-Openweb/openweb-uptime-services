@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/tasks
 status: up
 code: 200
-responseTime: 4302
-lastUpdated: 2022-02-04T14:26:36.730Z
+responseTime: 3945
+lastUpdated: 2022-02-04T14:35:58.559Z
 startTime: Fri Feb 04 2022 14:26:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
