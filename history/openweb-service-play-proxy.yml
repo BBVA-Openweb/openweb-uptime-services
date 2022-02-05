@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/proxy
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-02-05T20:40:23.710Z
+status: up
+code: 200
+responseTime: 3488
+lastUpdated: 2022-02-05T21:10:01.411Z
 startTime: Fri Feb 04 2022 14:26:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
