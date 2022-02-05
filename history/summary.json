@@ -4,19 +4,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/accesses",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-accesses",
-    "status": "up",
-    "uptime": "92.72%",
-    "uptimeDay": "92.72%",
-    "uptimeWeek": "92.72%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "92.72%",
+    "status": "down",
+    "uptime": "94.35%",
+    "uptimeDay": "92.83%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.35%",
     "time": 4751,
-    "timeDay": 4751,
+    "timeDay": 4924,
     "timeWeek": 4751,
     "timeMonth": 4751,
     "timeYear": 4751,
     "dailyMinutesDown": {
-      "2022-02-05": 60
+      "2022-02-05": 103
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/analytics",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-analytics",
-    "status": "up",
-    "uptime": "92.89%",
-    "uptimeDay": "92.89%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "92.89%",
-    "uptimeYear": "92.89%",
+    "status": "down",
+    "uptime": "94.51%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "94.51%",
     "time": 3688,
-    "timeDay": 3688,
+    "timeDay": 3920,
     "timeWeek": 3688,
     "timeMonth": 3688,
     "timeYear": 3688,
     "dailyMinutesDown": {
-      "2022-02-05": 59
+      "2022-02-05": 100
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/average",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-average",
-    "status": "up",
-    "uptime": "93.07%",
-    "uptimeDay": "93.07%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "93.07%",
-    "uptimeYear": "93.07%",
+    "status": "down",
+    "uptime": "94.68%",
+    "uptimeDay": "93.24%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "94.68%",
     "time": 459,
-    "timeDay": 459,
+    "timeDay": 486,
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2022-02-05": 57
+      "2022-02-05": 97
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/cdn",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-cdn",
-    "status": "up",
-    "uptime": "93.25%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "93.25%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "93.25%",
+    "status": "down",
+    "uptime": "94.84%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "94.84%",
+    "uptimeYear": "94.84%",
     "time": 4119,
-    "timeDay": 4119,
+    "timeDay": 4264,
     "timeWeek": 4119,
     "timeMonth": 4119,
     "timeYear": 4119,
     "dailyMinutesDown": {
-      "2022-02-05": 56
+      "2022-02-05": 94
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/comments",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-comments",
-    "status": "up",
-    "uptime": "93.42%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "93.42%",
-    "uptimeMonth": "93.42%",
-    "uptimeYear": "93.42%",
+    "status": "down",
+    "uptime": "95.00%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "95.00%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "95.00%",
     "time": 4055,
-    "timeDay": 4055,
+    "timeDay": 4283,
     "timeWeek": 4055,
     "timeMonth": 4055,
     "timeYear": 4055,
     "dailyMinutesDown": {
-      "2022-02-05": 55
+      "2022-02-05": 92
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/components",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-components",
-    "status": "up",
-    "uptime": "93.59%",
-    "uptimeDay": "93.59%",
-    "uptimeWeek": "93.59%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "93.59%",
+    "status": "down",
+    "uptime": "95.17%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "95.17%",
     "time": 3534,
-    "timeDay": 3534,
+    "timeDay": 3752,
     "timeWeek": 3534,
     "timeMonth": 3534,
     "timeYear": 3534,
     "dailyMinutesDown": {
-      "2022-02-05": 53
+      "2022-02-05": 88
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/computes",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-computes",
-    "status": "up",
-    "uptime": "93.77%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "93.77%",
-    "uptimeMonth": "93.77%",
-    "uptimeYear": "93.77%",
+    "status": "down",
+    "uptime": "95.33%",
+    "uptimeDay": "94.07%",
+    "uptimeWeek": "95.33%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "95.33%",
     "time": 4384,
-    "timeDay": 4384,
+    "timeDay": 4438,
     "timeWeek": 4384,
     "timeMonth": 4384,
     "timeYear": 4384,
     "dailyMinutesDown": {
-      "2022-02-05": 52
+      "2022-02-05": 86
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/departments",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-departments",
-    "status": "up",
-    "uptime": "93.94%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "93.94%",
+    "status": "down",
+    "uptime": "95.49%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "95.49%",
+    "uptimeMonth": "95.49%",
+    "uptimeYear": "95.49%",
     "time": 3990,
-    "timeDay": 3990,
+    "timeDay": 3970,
     "timeWeek": 3990,
     "timeMonth": 3990,
     "timeYear": 3990,
     "dailyMinutesDown": {
-      "2022-02-05": 50
+      "2022-02-05": 82
     }
   },
   {
@@ -164,19 +164,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/deploys",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-deploys",
-    "status": "up",
-    "uptime": "94.11%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "94.11%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "94.11%",
+    "status": "down",
+    "uptime": "95.65%",
+    "uptimeDay": "94.48%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
     "time": 3100,
-    "timeDay": 3100,
+    "timeDay": 2098,
     "timeWeek": 3100,
     "timeMonth": 3100,
     "timeYear": 3100,
     "dailyMinutesDown": {
-      "2022-02-05": 49
+      "2022-02-05": 80
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/domains",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-domains",
-    "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "94.28%",
+    "status": "down",
+    "uptime": "95.81%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "95.81%",
     "time": 4266,
-    "timeDay": 4266,
+    "timeDay": 4194,
     "timeWeek": 4266,
     "timeMonth": 4266,
     "timeYear": 4266,
     "dailyMinutesDown": {
-      "2022-02-05": 47
+      "2022-02-05": 76
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/dynamo",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-dynamo",
-    "status": "up",
-    "uptime": "94.45%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "94.45%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "94.45%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 6005,
-    "timeDay": 6005,
+    "timeDay": 5989,
     "timeWeek": 6005,
     "timeMonth": 6005,
     "timeYear": 6005,
     "dailyMinutesDown": {
-      "2022-02-05": 46
+      "2022-02-05": 74
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/jenkins",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-jenkins",
-    "status": "up",
-    "uptime": "94.63%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "94.63%",
-    "uptimeMonth": "94.63%",
-    "uptimeYear": "94.63%",
+    "status": "down",
+    "uptime": "96.14%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
     "time": 1325,
-    "timeDay": 1325,
+    "timeDay": 635,
     "timeWeek": 1325,
     "timeMonth": 1325,
     "timeYear": 1325,
     "dailyMinutesDown": {
-      "2022-02-05": 45
+      "2022-02-05": 71
     }
   },
   {
@@ -244,19 +244,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/form",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-form",
-    "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "94.81%",
-    "uptimeWeek": "94.81%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "94.81%",
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "95.31%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
     "time": 384,
-    "timeDay": 384,
+    "timeDay": 467,
     "timeWeek": 384,
     "timeMonth": 384,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2022-02-05": 43
+      "2022-02-05": 68
     }
   },
   {
@@ -264,19 +264,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/likes",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-likes",
-    "status": "up",
-    "uptime": "94.99%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "94.99%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "94.99%",
+    "status": "down",
+    "uptime": "96.46%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "96.46%",
+    "uptimeYear": "96.46%",
     "time": 3714,
-    "timeDay": 3714,
+    "timeDay": 3875,
     "timeWeek": 3714,
     "timeMonth": 3714,
     "timeYear": 3714,
     "dailyMinutesDown": {
-      "2022-02-05": 42
+      "2022-02-05": 65
     }
   },
   {
@@ -284,19 +284,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/mostpopulars",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-most-popular",
-    "status": "up",
-    "uptime": "95.16%",
-    "uptimeDay": "95.16%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "95.16%",
-    "uptimeYear": "95.16%",
+    "status": "down",
+    "uptime": "96.63%",
+    "uptimeDay": "95.72%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.63%",
     "time": 3844,
-    "timeDay": 3844,
+    "timeDay": 4052,
     "timeWeek": 3844,
     "timeMonth": 3844,
     "timeYear": 3844,
     "dailyMinutesDown": {
-      "2022-02-05": 40
+      "2022-02-05": 62
     }
   },
   {
@@ -304,19 +304,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/newsletter",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-newsletter",
-    "status": "up",
-    "uptime": "95.33%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "95.33%",
-    "uptimeMonth": "95.33%",
-    "uptimeYear": "95.33%",
+    "status": "down",
+    "uptime": "96.79%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "96.79%",
     "time": 4995,
-    "timeDay": 4995,
+    "timeDay": 6756,
     "timeWeek": 4995,
     "timeMonth": 4995,
     "timeYear": 4995,
     "dailyMinutesDown": {
-      "2022-02-05": 39
+      "2022-02-05": 59
     }
   },
   {
@@ -324,19 +324,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/notifications",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-notifications",
-    "status": "up",
-    "uptime": "95.51%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "95.51%",
+    "status": "down",
+    "uptime": "96.95%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "96.95%",
     "time": 1727,
-    "timeDay": 1727,
+    "timeDay": 2190,
     "timeWeek": 1727,
     "timeMonth": 1727,
     "timeYear": 1727,
     "dailyMinutesDown": {
-      "2022-02-05": 37
+      "2022-02-05": 55
     }
   },
   {
@@ -344,19 +344,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/poll",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-poll",
-    "status": "up",
-    "uptime": "95.68%",
-    "uptimeDay": "95.68%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "95.68%",
-    "uptimeYear": "95.68%",
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "97.11%",
+    "uptimeMonth": "97.11%",
+    "uptimeYear": "97.11%",
     "time": 3942,
-    "timeDay": 3942,
+    "timeDay": 4163,
     "timeWeek": 3942,
     "timeMonth": 3942,
     "timeYear": 3942,
     "dailyMinutesDown": {
-      "2022-02-05": 36
+      "2022-02-05": 53
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/projects",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-projects",
-    "status": "up",
-    "uptime": "95.85%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "95.85%",
-    "uptimeYear": "95.85%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "97.27%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "97.27%",
     "time": 3850,
-    "timeDay": 3850,
+    "timeDay": 3987,
     "timeWeek": 3850,
     "timeMonth": 3850,
     "timeYear": 3850,
     "dailyMinutesDown": {
-      "2022-02-05": 34
+      "2022-02-05": 49
     }
   },
   {
@@ -384,19 +384,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/proxy",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-proxy",
-    "status": "up",
-    "uptime": "96.03%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.03%",
-    "uptimeYear": "96.03%",
+    "status": "down",
+    "uptime": "97.44%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "97.44%",
+    "uptimeYear": "97.44%",
     "time": 3648,
-    "timeDay": 3648,
+    "timeDay": 3713,
     "timeWeek": 3648,
     "timeMonth": 3648,
     "timeYear": 3648,
     "dailyMinutesDown": {
-      "2022-02-05": 33
+      "2022-02-05": 47
     }
   },
   {
@@ -404,19 +404,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/roles",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-roles",
-    "status": "up",
-    "uptime": "96.20%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "96.20%",
-    "uptimeYear": "96.20%",
+    "status": "down",
+    "uptime": "97.60%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
     "time": 4129,
-    "timeDay": 4129,
+    "timeDay": 4086,
     "timeWeek": 4129,
     "timeMonth": 4129,
     "timeYear": 4129,
     "dailyMinutesDown": {
-      "2022-02-05": 31
+      "2022-02-05": 43
     }
   },
   {
@@ -424,19 +424,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/saml",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-saml",
-    "status": "up",
-    "uptime": "96.38%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "96.38%",
+    "status": "down",
+    "uptime": "97.76%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.76%",
     "time": 3409,
-    "timeDay": 3409,
+    "timeDay": 3684,
     "timeWeek": 3409,
     "timeMonth": 3409,
     "timeYear": 3409,
     "dailyMinutesDown": {
-      "2022-02-05": 30
+      "2022-02-05": 41
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/salesforce",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-salesforce",
-    "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "96.55%",
+    "status": "down",
+    "uptime": "97.92%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
     "time": 3613,
-    "timeDay": 3613,
+    "timeDay": 3680,
     "timeWeek": 3613,
     "timeMonth": 3613,
     "timeYear": 3613,
     "dailyMinutesDown": {
-      "2022-02-05": 29
+      "2022-02-05": 38
     }
   },
   {
@@ -464,19 +464,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/search",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-search",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.73%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "98.09%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
     "time": 3697,
-    "timeDay": 3697,
+    "timeDay": 3704,
     "timeWeek": 3697,
     "timeMonth": 3697,
     "timeYear": 3697,
     "dailyMinutesDown": {
-      "2022-02-05": 27
+      "2022-02-05": 35
     }
   },
   {
@@ -484,19 +484,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/statistics",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-statistics",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
+    "status": "down",
+    "uptime": "98.25%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
     "time": 5069,
-    "timeDay": 5069,
+    "timeDay": 4391,
     "timeWeek": 5069,
     "timeMonth": 5069,
     "timeYear": 5069,
     "dailyMinutesDown": {
-      "2022-02-05": 26
+      "2022-02-05": 32
     }
   },
   {
@@ -504,19 +504,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/tasks",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-tasks",
-    "status": "up",
-    "uptime": "97.07%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.07%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "97.98%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.41%",
+    "uptimeYear": "98.41%",
     "time": 3347,
-    "timeDay": 3347,
+    "timeDay": 2570,
     "timeWeek": 3347,
     "timeMonth": 3347,
     "timeYear": 3347,
     "dailyMinutesDown": {
-      "2022-02-05": 24
+      "2022-02-05": 29
     }
   },
   {
@@ -524,19 +524,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/users",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-users",
-    "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "97.24%",
+    "status": "down",
+    "uptime": "98.57%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 3932,
-    "timeDay": 3932,
+    "timeDay": 3958,
     "timeWeek": 3932,
     "timeMonth": 3932,
     "timeYear": 3932,
     "dailyMinutesDown": {
-      "2022-02-05": 23
+      "2022-02-05": 26
     }
   },
   {
@@ -544,19 +544,19 @@
     "url": "$OPENWEB_HEALTH_PLAY/visits",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-visits",
-    "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "97.42%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
     "time": 511,
-    "timeDay": 511,
+    "timeDay": 642,
     "timeWeek": 511,
     "timeMonth": 511,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2022-02-05": 21
+      "2022-02-05": 23
     }
   },
   {
@@ -564,14 +564,14 @@
     "url": "$OPENWEB_HEALTH_PLAY/watermark",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-play-watermark",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 339,
-    "timeDay": 339,
+    "timeDay": 421,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
