@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/saml
 status: up
 code: 200
-responseTime: 3760
-lastUpdated: 2022-02-07T00:44:38.794Z
+responseTime: 3517
+lastUpdated: 2022-02-07T23:17:04.431Z
 startTime: Fri Feb 04 2022 14:26:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
