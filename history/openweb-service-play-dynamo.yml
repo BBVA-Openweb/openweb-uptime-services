@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/dynamo
 status: up
 code: 200
-responseTime: 5951
-lastUpdated: 2022-02-07T00:43:50.099Z
+responseTime: 5865
+lastUpdated: 2022-02-07T23:16:31.728Z
 startTime: Fri Feb 04 2022 14:25:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
