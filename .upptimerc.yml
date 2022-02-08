@@ -1,5 +1,5 @@
 # Change these first
-owner: next-franciscocalle # Your GitHub organization or username, where this repository lives
+owner: bbva-openweb # Your GitHub organization or username, where this repository lives
 repo: openweb-uptime-services # The name of this repository
 
 sites:
@@ -94,8 +94,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /openweb-uptime-services
+  cname: uptime-services.openweb.bbva
+  # baseUrl: /openweb-uptime-services
   logoUrl: https://cdn.openweb.bbva/logos/openweb/small.png
   favicon: https://cdn.openweb.bbva/favicon/bbva/favicon-96x96.png
   name: Openweb Services Uptime
