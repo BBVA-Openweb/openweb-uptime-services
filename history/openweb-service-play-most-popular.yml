@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/mostpopulars
-status: up
-code: 200
-responseTime: 3835
-lastUpdated: 2022-02-08T06:16:01.639Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-02-08T08:36:45.372Z
 startTime: Fri Feb 04 2022 14:25:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
