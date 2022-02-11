@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_PLAY/jenkins
 status: up
 code: 200
-responseTime: 3072
-lastUpdated: 2022-02-11T10:13:15.802Z
+responseTime: 237
+lastUpdated: 2022-02-11T23:15:43.398Z
 startTime: Fri Feb 04 2022 14:25:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
