@@ -12,7 +12,7 @@ sites:
     url: $OPENWEB_HEALTH_LIVE/analytics
     maxResponseTime: 15000
   - name: Openweb Service - Average
-    url: $OPENWEB_HEALTH_LIVE/average
+    url: $OPENWEB_HEALTH_LIVE/averages
     maxResponseTime: 15000
   - name: Openweb Service - CDN
     url: $OPENWEB_HEALTH_LIVE/cdn
