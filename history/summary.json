@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-average",
     "status": "up",
-    "uptime": "6.31%",
-    "uptimeDay": "6.31%",
-    "uptimeWeek": "6.31%",
-    "uptimeMonth": "6.31%",
-    "uptimeYear": "6.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 412,
     "timeWeek": 412,
     "timeMonth": 412,
     "timeYear": 412,
-    "dailyMinutesDown": {
-      "2022-02-12": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Openweb Service - CDN",
@@ -511,18 +509,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "openweb-service-visits",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 412,
     "timeDay": 412,
     "timeWeek": 412,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2022-02-12": 12
+      "2022-02-12": 13
     }
   },
   {
