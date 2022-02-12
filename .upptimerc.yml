@@ -5,90 +5,119 @@ repo: uptime-services # The name of this repository
 sites:
   - name: Panel de Openweb
     url: https://webpublicas.bbva.com/
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Accesses
     url: $OPENWEB_HEALTH_LIVE/accesses
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Analytics
     url: $OPENWEB_HEALTH_LIVE/analytics
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Average
     url: $OPENWEB_HEALTH_LIVE/averages
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - CDN
     url: $OPENWEB_HEALTH_LIVE/cdn
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Comments
     url: $OPENWEB_HEALTH_LIVE/comments
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Components
     url: $OPENWEB_HEALTH_LIVE/components
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Computes
     url: $OPENWEB_HEALTH_LIVE/computes
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Departments
     url: $OPENWEB_HEALTH_LIVE/departments
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Deploys
     url: $OPENWEB_HEALTH_LIVE/deploys
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Domains
     url: $OPENWEB_HEALTH_LIVE/domains
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Dynamo
     url: $OPENWEB_HEALTH_LIVE/dynamo
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Jenkins
     url: $OPENWEB_HEALTH_LIVE/jenkins
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Form
     url: $OPENWEB_HEALTH_LIVE/form
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Likes
     url: $OPENWEB_HEALTH_LIVE/likes
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Most Popular
     url: $OPENWEB_HEALTH_LIVE/mostpopulars
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Newsletter
     url: $OPENWEB_HEALTH_LIVE/newsletter
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Notifications
     url: $OPENWEB_HEALTH_LIVE/notifications
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Poll
     url: $OPENWEB_HEALTH_LIVE/poll
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Projects
     url: $OPENWEB_HEALTH_LIVE/projects
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Proxy
     url: $OPENWEB_HEALTH_LIVE/proxy
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Roles
     url: $OPENWEB_HEALTH_LIVE/roles
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - SAML
     url: $OPENWEB_HEALTH_LIVE/saml
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Salesforce
     url: $OPENWEB_HEALTH_LIVE/salesforce
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Search
     url: $OPENWEB_HEALTH_LIVE/search
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Statistics
     url: $OPENWEB_HEALTH_LIVE/statistics
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Tasks
     url: $OPENWEB_HEALTH_LIVE/tasks
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Users
     url: $OPENWEB_HEALTH_LIVE/users
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
   - name: Openweb Service - Watermark
     url: $OPENWEB_HEALTH_LIVE/watermark
     maxResponseTime: 15000
+    favicon: https://webpublicas.bbva.com/assets/images/favicon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
