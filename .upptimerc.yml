@@ -5,92 +5,92 @@ repo: uptime-services # The name of this repository
 sites:
   - name: Panel de Openweb
     url: https://webpublicas.bbva.com/
-  - name: Openweb Service (PLAY) - Accesses
-    url: $OPENWEB_HEALTH_PLAY/accesses
+  - name: Openweb Service - Accesses
+    url: $OPENWEB_HEALTH_LIVE/accesses
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Analytics
-    url: $OPENWEB_HEALTH_PLAY/analytics
+  - name: Openweb Service - Analytics
+    url: $OPENWEB_HEALTH_LIVE/analytics
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Average
-    url: $OPENWEB_HEALTH_PLAY/average
+  - name: Openweb Service - Average
+    url: $OPENWEB_HEALTH_LIVE/average
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - CDN
-    url: $OPENWEB_HEALTH_PLAY/cdn
+  - name: Openweb Service - CDN
+    url: $OPENWEB_HEALTH_LIVE/cdn
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Comments
-    url: $OPENWEB_HEALTH_PLAY/comments
+  - name: Openweb Service - Comments
+    url: $OPENWEB_HEALTH_LIVE/comments
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Components
-    url: $OPENWEB_HEALTH_PLAY/components
+  - name: Openweb Service - Components
+    url: $OPENWEB_HEALTH_LIVE/components
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Computes
-    url: $OPENWEB_HEALTH_PLAY/computes
+  - name: Openweb Service - Computes
+    url: $OPENWEB_HEALTH_LIVE/computes
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Departments
-    url: $OPENWEB_HEALTH_PLAY/departments
+  - name: Openweb Service - Departments
+    url: $OPENWEB_HEALTH_LIVE/departments
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Deploys
-    url: $OPENWEB_HEALTH_PLAY/deploys
+  - name: Openweb Service - Deploys
+    url: $OPENWEB_HEALTH_LIVE/deploys
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Domains
-    url: $OPENWEB_HEALTH_PLAY/domains
+  - name: Openweb Service - Domains
+    url: $OPENWEB_HEALTH_LIVE/domains
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Dynamo
-    url: $OPENWEB_HEALTH_PLAY/dynamo
+  - name: Openweb Service - Dynamo
+    url: $OPENWEB_HEALTH_LIVE/dynamo
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Jenkins
-    url: $OPENWEB_HEALTH_PLAY/jenkins
+  - name: Openweb Service - Jenkins
+    url: $OPENWEB_HEALTH_LIVE/jenkins
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Form
-    url: $OPENWEB_HEALTH_PLAY/form
+  - name: Openweb Service - Form
+    url: $OPENWEB_HEALTH_LIVE/form
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Likes
-    url: $OPENWEB_HEALTH_PLAY/likes
+  - name: Openweb Service - Likes
+    url: $OPENWEB_HEALTH_LIVE/likes
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Most Popular
-    url: $OPENWEB_HEALTH_PLAY/mostpopulars
+  - name: Openweb Service - Most Popular
+    url: $OPENWEB_HEALTH_LIVE/mostpopulars
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Newsletter
-    url: $OPENWEB_HEALTH_PLAY/newsletter
+  - name: Openweb Service - Newsletter
+    url: $OPENWEB_HEALTH_LIVE/newsletter
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Notifications
-    url: $OPENWEB_HEALTH_PLAY/notifications
+  - name: Openweb Service - Notifications
+    url: $OPENWEB_HEALTH_LIVE/notifications
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Poll
-    url: $OPENWEB_HEALTH_PLAY/poll
+  - name: Openweb Service - Poll
+    url: $OPENWEB_HEALTH_LIVE/poll
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Projects
-    url: $OPENWEB_HEALTH_PLAY/projects
+  - name: Openweb Service - Projects
+    url: $OPENWEB_HEALTH_LIVE/projects
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Proxy
-    url: $OPENWEB_HEALTH_PLAY/proxy
+  - name: Openweb Service - Proxy
+    url: $OPENWEB_HEALTH_LIVE/proxy
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Roles
-    url: $OPENWEB_HEALTH_PLAY/roles
+  - name: Openweb Service - Roles
+    url: $OPENWEB_HEALTH_LIVE/roles
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - SAML
-    url: $OPENWEB_HEALTH_PLAY/saml
+  - name: Openweb Service - SAML
+    url: $OPENWEB_HEALTH_LIVE/saml
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Salesforce
-    url: $OPENWEB_HEALTH_PLAY/salesforce
+  - name: Openweb Service - Salesforce
+    url: $OPENWEB_HEALTH_LIVE/salesforce
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Search
-    url: $OPENWEB_HEALTH_PLAY/search
+  - name: Openweb Service - Search
+    url: $OPENWEB_HEALTH_LIVE/search
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Statistics
-    url: $OPENWEB_HEALTH_PLAY/statistics
+  - name: Openweb Service - Statistics
+    url: $OPENWEB_HEALTH_LIVE/statistics
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Tasks
-    url: $OPENWEB_HEALTH_PLAY/tasks
+  - name: Openweb Service - Tasks
+    url: $OPENWEB_HEALTH_LIVE/tasks
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Users
-    url: $OPENWEB_HEALTH_PLAY/users
+  - name: Openweb Service - Users
+    url: $OPENWEB_HEALTH_LIVE/users
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Visits
-    url: $OPENWEB_HEALTH_PLAY/visits
+  - name: Openweb Service - Visits
+    url: $OPENWEB_HEALTH_LIVE/visits
     maxResponseTime: 15000
-  - name: Openweb Service (PLAY) - Watermark
-    url: $OPENWEB_HEALTH_PLAY/watermark
+  - name: Openweb Service - Watermark
+    url: $OPENWEB_HEALTH_LIVE/watermark
     maxResponseTime: 15000
 
 status-website:
@@ -122,6 +122,6 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "0 * * * *"
-  
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
