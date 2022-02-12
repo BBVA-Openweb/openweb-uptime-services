@@ -86,9 +86,6 @@ sites:
   - name: Openweb Service - Users
     url: $OPENWEB_HEALTH_LIVE/users
     maxResponseTime: 15000
-  - name: Openweb Service - Visits
-    url: $OPENWEB_HEALTH_LIVE/visits
-    maxResponseTime: 15000
   - name: Openweb Service - Watermark
     url: $OPENWEB_HEALTH_LIVE/watermark
     maxResponseTime: 15000
