@@ -220,18 +220,20 @@
     "url": "$OPENWEB_HEALTH_LIVE/jenkins",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "openweb-service-jenkins",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 802,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 3060,
+    "timeDay": 11929,
+    "timeWeek": 3060,
+    "timeMonth": 3060,
+    "timeYear": 3060,
+    "dailyMinutesDown": {
+      "2022-02-15": 1
+    }
   },
   {
     "name": "Openweb Service - Form",
