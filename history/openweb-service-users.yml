@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/users
 status: up
 code: 200
-responseTime: 4184
-lastUpdated: 2022-06-15T23:18:58.750Z
+responseTime: 3615
+lastUpdated: 2022-06-16T23:18:30.914Z
 startTime: Sat Feb 12 2022 08:42:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
