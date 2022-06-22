@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/mostpopulars
 status: up
 code: 200
-responseTime: 238
-lastUpdated: 2022-06-21T23:18:50.108Z
+responseTime: 170
+lastUpdated: 2022-06-22T23:17:27.649Z
 startTime: Sat Feb 12 2022 08:41:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
