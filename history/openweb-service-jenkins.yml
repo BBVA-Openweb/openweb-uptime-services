@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/jenkins
 status: up
 code: 200
-responseTime: 652
-lastUpdated: 2022-07-02T23:16:29.881Z
+responseTime: 441
+lastUpdated: 2022-07-03T23:17:05.088Z
 startTime: Sat Feb 12 2022 08:41:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
