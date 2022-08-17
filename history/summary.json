@@ -130,18 +130,20 @@
     "url": "$OPENWEB_HEALTH_LIVE/computes",
     "icon": "https://webpublicas.bbva.com/assets/images/favicon.png",
     "slug": "openweb-service-computes",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2123,
-    "timeDay": 604,
-    "timeWeek": 2617,
-    "timeMonth": 2057,
-    "timeYear": 2123,
-    "dailyMinutesDown": {}
+    "time": 2223,
+    "timeDay": 11026,
+    "timeWeek": 4971,
+    "timeMonth": 2663,
+    "timeYear": 2223,
+    "dailyMinutesDown": {
+      "2022-08-17": 1
+    }
   },
   {
     "name": "Openweb Service - Departments",
