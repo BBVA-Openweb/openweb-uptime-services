@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/salesforce
 status: up
 code: 200
-responseTime: 952
-lastUpdated: 2022-08-30T23:20:12.964Z
+responseTime: 4430
+lastUpdated: 2022-08-31T23:19:24.479Z
 startTime: Sat Feb 12 2022 08:42:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
