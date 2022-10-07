@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/proxy
 status: up
 code: 200
-responseTime: 3920
-lastUpdated: 2022-10-06T23:26:18.200Z
+responseTime: 3489
+lastUpdated: 2022-10-07T23:25:33.183Z
 startTime: Sat Feb 12 2022 08:41:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
