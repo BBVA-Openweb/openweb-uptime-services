@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/averages
 status: up
 code: 200
-responseTime: 354
-lastUpdated: 2023-05-03T23:13:26.569Z
+responseTime: 349
+lastUpdated: 2023-05-04T23:14:22.608Z
 startTime: Sat Feb 12 2022 08:41:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
