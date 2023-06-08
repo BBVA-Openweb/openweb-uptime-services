@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/likes
 status: up
 code: 200
-responseTime: 236
-lastUpdated: 2023-06-07T23:13:53.885Z
+responseTime: 401
+lastUpdated: 2023-06-08T23:14:00.527Z
 startTime: Sat Feb 12 2022 08:41:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
