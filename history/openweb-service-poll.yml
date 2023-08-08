@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/poll
 status: up
 code: 200
-responseTime: 496
-lastUpdated: 2023-08-07T23:12:39.586Z
+responseTime: 3881
+lastUpdated: 2023-08-08T23:13:15.784Z
 startTime: Sat Feb 12 2022 08:41:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
