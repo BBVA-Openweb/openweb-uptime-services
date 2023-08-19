@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/comments
 status: up
 code: 200
-responseTime: 674
-lastUpdated: 2023-08-18T23:12:11.989Z
-startTime: Sat Feb 12 2022 08:41:14 GMT+0000 (Coordinated Universal Time)
+responseTime: 482
+lastUpdated: 2023-08-19T23:11:42.889Z
+startTime: 2022-02-12T08:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
