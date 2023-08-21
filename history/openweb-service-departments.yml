@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/departments
 status: up
 code: 200
-responseTime: 4047
-lastUpdated: 2023-08-20T23:12:02.675Z
+responseTime: 3727
+lastUpdated: 2023-08-21T23:12:29.368Z
 startTime: 2022-02-12T08:41:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
