@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/notifications
 status: up
 code: 200
-responseTime: 719
-lastUpdated: 2023-08-24T23:13:06.718Z
+responseTime: 502
+lastUpdated: 2023-08-25T23:13:42.393Z
 startTime: 2022-02-12T08:41:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
