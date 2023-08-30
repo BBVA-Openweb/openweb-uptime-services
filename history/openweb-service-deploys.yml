@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/deploys
 status: up
 code: 200
-responseTime: 4037
-lastUpdated: 2023-08-29T23:11:56.959Z
+responseTime: 444
+lastUpdated: 2023-08-30T23:12:42.216Z
 startTime: 2022-02-12T08:41:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
