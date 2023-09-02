@@ -1,7 +1,7 @@
 url: $OPENWEB_HEALTH_LIVE/tasks
 status: up
 code: 200
-responseTime: 3956
-lastUpdated: 2023-09-01T23:12:46.546Z
+responseTime: 3882
+lastUpdated: 2023-09-02T23:12:54.209Z
 startTime: 2022-02-12T08:42:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
